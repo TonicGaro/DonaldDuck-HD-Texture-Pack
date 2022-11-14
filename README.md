@@ -1,4 +1,4 @@
-# DonaldDuckHD-Texture-Pack
+# DonaldDuck-HD-Texture-Pack
 An AI upscaled texture pack for Donald Duck: Goin' Quackers/Quack Attack.
 
 Credits to RayCarrot for figuring out how to increase the ```TMPFixMemory``` value in "Game.dsb".
