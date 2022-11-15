@@ -4,6 +4,8 @@ An AI upscaled texture pack for Donald Duck: Goin' Quackers/Quack Attack. Each t
 
 ![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/DonaldDuckHDLogo.png)
 
+If you want to know how to use this texture pack yourself go [here](https://raymanpc.com/forum/viewtopic.php?t=74946).
+
 Credits to RayCarrot for figuring out how to increase the ```TMPFixMemory``` value in "Game.dsb".
 
 # Instructions on how to import the source textures into a Textures.cnt file:
