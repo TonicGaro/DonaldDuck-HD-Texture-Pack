@@ -18,3 +18,41 @@ Right click on the folder that contains the texture(s) you want to replace and c
 Once you've saved your changes make sure to sync the texture info before you start the game. "Utilities>Other" select the "Data" folder when syncing.
 
 **IMPORTANT!!! Make sure you include the edited "Game.dsb" file before you release your texture pack!** The default "Game.dsb" file limits the texture memory causing the game to crash when loading higher resolution textures.
+
+# Comparison Screenshots
+
+Original textures
+![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/Original1.png)
+
+HD textures
+![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/HD1.png)
+
+Original textures
+![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/Original2.png)
+
+HD textures
+![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/HD2.png)
+
+Original textures
+![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/Original3.png)
+
+HD textures
+![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/HD3.png)
+
+Original textures
+![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/Original4.png)
+
+HD textures
+![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/HD4.png)
+
+Original textures
+![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/Original5.png)
+
+HD textures
+![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/HD5.png)
+
+Original textures
+![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/Original6.png)
+
+HD textures
+![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/HD6.png)
