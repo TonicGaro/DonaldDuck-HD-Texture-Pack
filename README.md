@@ -6,7 +6,7 @@ An AI upscaled texture pack for Donald Duck: Goin' Quackers/Quack Attack. Each t
 
 If you want to know how to use this texture pack yourself go [here](https://raymanpc.com/forum/viewtopic.php?t=74946).
 
-Credits to [RayCarrot](https://github.com/RayCarrot) for figuring out how to increase the ```TMPFixMemory``` value in "Game.dsb". Credits to [alweg](https://github.com/alweg) also known as Eddd for lending me his Special Edition font.
+Credits to [RayCarrot](https://github.com/RayCarrot) and [byvar](https://github.com/byvar) also known as Droolie for figuring out how to increase the ```TMPFixMemory``` value in "Game.dsb". Credits to [alweg](https://github.com/alweg) also known as Eddd for lending me his Special Edition font.
 
 # Instructions on how to import the source textures into a Textures.cnt file:
 Get the latest version of [Rayman Control Panel](https://github.com/RayCarrot/RayCarrot.RCP.Metro/releases).
