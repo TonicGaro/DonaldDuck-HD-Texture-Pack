@@ -21,38 +21,38 @@ Once you've saved your changes make sure to sync the texture info before you sta
 
 # Comparison Screenshots
 
-Original textures
+Original textures:
 ![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/Original1.png)
 
-HD textures
+HD textures:
 ![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/HD1.png)
 
-Original textures
+Original textures:
 ![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/Original2.png)
 
-HD textures
+HD textures:
 ![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/HD2.png)
 
-Original textures
+Original textures:
 ![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/Original3.png)
 
-HD textures
+HD textures:
 ![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/HD3.png)
 
-Original textures
+Original textures:
 ![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/Original4.png)
 
-HD textures
+HD textures:
 ![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/HD4.png)
 
-Original textures
+Original textures:
 ![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/Original5.png)
 
-HD textures
+HD textures:
 ![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/HD5.png)
 
-Original textures
+Original textures:
 ![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/Original6.png)
 
-HD textures
+HD textures:
 ![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/Screenshots/HD6.png)
