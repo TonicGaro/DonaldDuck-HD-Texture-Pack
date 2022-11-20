@@ -1,6 +1,6 @@
 # DonaldDuck-HD-Texture-Pack
 ## [DOWNLOAD LINK (LATEST RELEASE)](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/releases/latest/download/DonaldDuckHD.7z)
-An AI upscaled texture pack for Donald Duck: Goin' Quackers/Quack Attack. Each texture is upscaled 4x their original size.
+An AI upscaled texture pack for Donald Duck: Goin' Quackers/Quack Attack (PC). Each texture is upscaled 4x their original size.
 
 ![](https://github.com/TonicGaro/DonaldDuck-HD-Texture-Pack/blob/main/DonaldDuckHDLogo.png)
 
